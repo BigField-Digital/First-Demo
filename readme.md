@@ -1,11 +1,11 @@
-# Test app for Pluralsight course
+# Test app for Big Field Digital
 
-This is a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for a Pluralsight video training course..
+This is a quick and dirty test node.js app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub for Big Field Digital...
 
 ## Instructions for use
 
-All of the files included in the .zip file (available to Plus subscribers) should be unzipped into a new directory.
+All of the files included in the .zip file should be unzipped into a new directory.
 
-Initializing a Git repo and making a remote of it on GitHub are explained in Module 2 of the course.
+You will need to initialize a github repo or Bitbucket and make a remote of it.
 
 The viewer should have Git installed and have a GitHub account.
